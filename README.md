@@ -1,4 +1,4 @@
-<pre>```python
-import sys
-print(sys.version)
-```</pre>
+깃허브
+---
+
+깃허브는 전세계 개발자들이 코드를 올려서 관리하는 서비스입니다.
